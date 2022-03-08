@@ -13,3 +13,5 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 1);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 3);
 
+
+INSERT INTO tb_course(name,img_Uri, img_Gray_Uri) VALUES ('Bootcamp HTML', 'https://images.educamaisbrasil.com.br/content/noticias/prefeitura-de-goiania-oferece-cursos-gratuitos-para-mulheres_g.jpg', 'https://cdn.w600.comps.canstockphoto.com.br/course-l%C3%ADngua-inglesa-e-aprendendo-imagem_csp91701272.jpg');
